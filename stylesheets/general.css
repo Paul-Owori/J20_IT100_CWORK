@@ -1,0 +1,34 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid gray;
+    border-right: none;
+}
+.navbar-col {
+    flex: 2.4;
+    padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+    border-right: 1px solid gray;
+}
+.navbar-col:hover {
+    background: #3b5fde;
+}
+
+.navbar-col:hover a {
+    color: white;
+}
+
+.navbar-col:active,
+.navbar-col:focus {
+    background: #213faa;
+}
+
+.nav-link {
+    color: gray;
+    text-decoration: none;
+}
+
+.page-container {
+    margin-left: 3rem;
+    margin-right: 3rem;
+    text-align: center;
+}

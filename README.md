@@ -1,8 +1,10 @@
-# Byarent
+# Auto Spareparts
 
-Byarent is an online e-commerce platform that connects home-buyers to home owners.
+Auto Spareparts is an online e-commerce platform that connects vehicle spare parts suppliers to potential customers.
 
-You can see a hosted version of Byarent on [Heroku](https://byarental.herokuapp.com/)
+You can check out the repository for this project [here](https://github.com/Paul-Owori/J20_IT100_CWORK)
+
+You can see a hosted version of this website [here]()
 
 ## Languages and frameworks
 

@@ -1,0 +1,32 @@
+.news-container {
+    margin: 1.5rem auto 1.5rem auto;
+    width: 75vw;
+}
+
+.news-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 2rem;
+    border: 0.5px solid gray;
+    padding: 0.5rem;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.news-item:hover ~ .news-item-desc {
+    background: gray;
+}
+
+.news-item-img {
+    flex: 4;
+}
+
+.news-item-img img {
+    width: 200px;
+}
+
+.news-item-desc {
+    flex: 8;
+    padding-left: 1.5rem;
+}

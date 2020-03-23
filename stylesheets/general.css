@@ -52,7 +52,8 @@ form {
     border: 1px solid gray;
     border-radius: 10px;
     padding: 1.5rem;
-    width: 600px;
+    width: 80vw;
+    margin: 1rem auto 1rem auto;
 }
 
 .form-container {
@@ -90,4 +91,8 @@ textarea {
 /* General text */
 p {
     text-align: justify;
+}
+
+.center {
+    text-align: center;
 }
